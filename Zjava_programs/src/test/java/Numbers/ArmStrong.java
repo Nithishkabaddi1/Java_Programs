@@ -4,7 +4,7 @@ public class ArmStrong {
 	
 	public static void main(String[] args) {
 		
-		int n=153,t1=n,t2=n,count=0,sum=0;
+		int n=1531,t1=n,t2=n,count=0,sum=0;
 		while(t1>0) {
 			count++;
 			t1/=10;
